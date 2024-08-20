@@ -1,39 +1,39 @@
-# What Is the Internet?
+# What Is The Internet?
+* **Internet:** A *global* network of computers that share information with each other.
 
-The **Internet** is a global network of interconnected computers that allows for the sharing and exchange of information. It’s the backbone of our digital world, enabling everything from simple emails to complex data transfers across continents.
+**Nikola Tesla:** (1900s): Early ideas of a global wireless communication system.
 
-### A Brief History
-- **Nikola Tesla** (1900s): Early ideas of a global wireless communication system.
-- **ARPANet**: The precursor to the internet, a project by the US Department of Defense for real-time communication between computers.
-- **DARPA**: The agency behind ARPANet, focusing on advanced research projects.
-- **Packet Switching**: A method where messages are broken into packets and sent independently from one point to another. Early packet switching was unreliable due to delays.
-- **TCP/IP**: The protocols that ensure data is correctly ordered and delivered to its destination.
-- **ICANN**: The body that coordinates unique identifiers, like domain names, ensuring devices can communicate across the internet. Think of ICANN as the traffic controllers of the web, managing the flow of data.
+* **ARPANet:** A network of computers that communicated with each other in *real-time*.
+* **DARPA:** Research project *ran* by the US DEPARTMENT OF DEFENSE.
+* **Packet Switching:** Message broken into *data packets*, sent from Person A to Person B.
+  * ^ *Unreliable*, due to delays among messages.
+* **TCP (Transmission Control Protocol)** and **Internet Protocol (IP):** Made it so information sent arrives in its proper order to the correct destination.
+* **ICANN:** Coordinates unique identifiers to make sure devices are able to talk to one another.
+  * Without ICANN, devices *wouldn't* know where to go on the internet.
+  * *Traffic Controllers, Stop Lights, Street Signs.*
 
-# Who Invented the Internet?
+# Who Invented The Internet?
+* **Paul Mockapetris:** Invented Domain Name System (DNS) —-> Shortcut to IP Address.
+* **Tim Berber’s-Lee:** Invented the *World Wide Web*.
+  * Common problem: Scientists could not share information between one another —> Tim invented *Hypertext* to link text in text, further inventing *HTML, HTTP, URI*.
 
-- **Paul Mockapetris**: Invented the Domain Name System (DNS), which translates human-friendly domain names into IP addresses.
-- **Tim Berners-Lee**: Invented the World Wide Web. He addressed the problem of scientists being unable to share information by creating **Hypertext**, leading to the development of **HTML**, **HTTP**, and **URI**.
+# How Does It Work?
+* **HTML (Hypertext Markup Language):** Creates *pages* to be displayed on the internet.
+* **HTTP (Hypertext Transfer Protocol):** Allows you to get info from *linked resources* across the web.
+* **URI (Uniform Resource Identifier):** Unique *address* to identify each resource across the web.
 
-# How Does the Internet Work?
+- *1993* pushed for this technology to be made available to the public by W3C.
+- The reason we have a *mostly* uncensored and *open* internet.
 
-- **HTML (Hypertext Markup Language)**: The language used to create and structure web pages.
-- **HTTP (Hypertext Transfer Protocol)**: The protocol that allows web pages to be fetched and viewed from linked resources across the web.
-- **URI (Uniform Resource Identifier)**: The unique address used to identify each resource on the web.
+# What Does The Internet Look Like Today?
+**Statistics:**
+* 4.7 Billion Internet users *worldwide*.
+* There are 293 billion emails sent *every day*.
+* In *2020*, there was a 1,157% increase in internet usage since the year 2000.
+* Comparing to *2009*, less than 1% of internet traffic was from mobile devices —> Today, over *51%* of all global traffic is from *mobile devices*.
 
-In 1993, these technologies were pushed to the public through the **W3C** (World Wide Web Consortium), leading to the open and largely uncensored internet we know today.
+* We have *500 million miles* of cable under the sea! These wires connect the world *underwater* —> each having names.
 
-# The Internet Today
-
-### By the Numbers
-- **4.7 Billion** Internet users worldwide.
-- **293 Billion** emails sent every day.
-- **1,157%** increase in internet usage from 2000 to 2020.
-- In 2009, less than 1% of internet traffic came from mobile devices; today, over **51%** of global traffic is mobile.
-
-### Infrastructure
-- There are **500 million miles** of undersea cables connecting the world. These cables are the physical foundation of the internet, enabling the seamless global communication we rely on.
-
-# What’s Next for the Internet?
-
-- Companies like **Google** and **Facebook** are working on creating **wireless internet** solutions, pushing towards a more connected and accessible digital world for everyone.
+# What Is The Next Step For The Internet?
+- Companies such as *Google* and *Facebook* seek to create *wireless internet*!
+```
