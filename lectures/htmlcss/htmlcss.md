@@ -29,3 +29,27 @@
     - Title Element
     - Attribute "href"
     - Text Element 
+
+### Block
+
+- Block level element takes line such as < p >
+- break < br> is a line return
+
+### A Tag
+- Anchor tag links to external site!
+- Open in new tab with a target
+
+---------------------------
+--------------------------
+### **NOTES ON TAGS**
+
+## Mozilla Site
+- HTML Elements! 
+    - Footer element: contains info about the author of section for copyright data....
+    - Address element: Provides contact info for a person or people...
+    - HR element: Represents a break between paragraph elements
+    - BR element: Creates a line break
+    - EM element: Stresses emphasis!!!
+
+- *developer.mozilla.org*
+
