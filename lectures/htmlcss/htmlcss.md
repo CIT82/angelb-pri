@@ -53,3 +53,7 @@
 
 - *developer.mozilla.org*
 
+
+## Your Thoughts - Week 3
+    - Again I knew all of what was taught in today's lecture, but it was really good to recap! I always think it's good to refresh your memory once in a whilw lol!
+
