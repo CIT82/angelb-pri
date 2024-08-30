@@ -17,5 +17,15 @@
     - Body tag stores all content on page...
     - Index is default, don't have to specify
 
-- Your Thoughts
-    - I knew all of what was taught in todays lecture, but it was good to recap and refresh my memory. I learned this in my previous CIT class two semesters  ago! 
+## Your Thoughts
+    - I knew all of what was taught in today's lecture, as I learned this in my previous CIT class two semesters  ago! It was good to recap and refresh my memory though!!  
+
+## Week 3 Thursday
+ **DOM:**
+-  Document Object Model is structure that is based on markup!
+    - Document 
+    - Root Element 
+    - Head Element
+    - Title Element
+    - Attribute "href"
+    - Text Element 
