@@ -24,6 +24,10 @@ footer {
     padding: 10px 0;
 }
 
+label {
+    display: block;
+}
+
 .outline {
     border: 1px black solid;
 }

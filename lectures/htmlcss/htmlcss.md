@@ -68,3 +68,20 @@ Classes in CSS are specific elements that are selected!
 - You can use the same class on multiple elements! 
 - When using, make sure a dot is present (ex: .red)
 - Using classes with java is handy since you can manipulate elements! 
+
+## Review
+- mdn display
+    - Display property is how element is displayed on page
+         - block, inline, flex, grid are examples
+         - block taxes up fill width of line
+         - inline only takes needed space
+         - flex enables a flexable layout
+
+- responsive design
+    - Responsive design is how we make websites look good on different devices/screens!
+        - Fluid Layout: flex grids (percentages)
+        - Media queries: apply styles based on screen size
+        - Flex images: images adjust based on screen size
+        - Viewport meta tag:
+        Correct scaling on mobile devices
+        - Test across devices: Checks how the design looks on tablets, phones, and desktops!
