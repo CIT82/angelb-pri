@@ -4,3 +4,9 @@ body {
     padding: 0;
     text-align: center;
 }
+
+header {
+    background-color: rgba(181, 150, 211, 0.747);
+    color: rgb(54, 69, 71);
+    padding: 10p 0;
+}
