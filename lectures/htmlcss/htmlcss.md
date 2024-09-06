@@ -57,3 +57,14 @@
 ## Your Thoughts - Week 3
     - Again I knew all of what was taught in today's lecture, but it was really good to recap! I always think it's good to refresh your memory once in a whilw lol!
 
+## CSS
+
+Play Around
+Give understanding of CSS
+
+What is a class?
+
+Classes in CSS are specific elements that are selected! 
+- You can use the same class on multiple elements! 
+- When using, make sure a dot is present (ex: .red)
+- Using classes with java is handy since you can manipulate elements! 

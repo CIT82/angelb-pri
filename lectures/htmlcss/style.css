@@ -9,10 +9,27 @@ header {
     background-color: rgba(238, 162, 228, 0.747);
     color: rgb(54, 69, 71);
     padding: 10p 0;
+    border: 10px rgb(226, 120, 203) dashed;
 }
 
 main {
     margin: 15px;
     padding: 15px;
     background-color: rgb(163, 200, 233);
+}
+
+.outline {
+    border: 1px black solid;
+}
+
+.red {
+    color: rgb(187, 9, 9);
+}
+
+.orange {
+    color: rgb(173, 101, 7);
+}
+
+.blue {
+    color: rgb(44, 94, 233);
 }
