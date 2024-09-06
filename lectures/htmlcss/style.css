@@ -18,6 +18,12 @@ main {
     background-color: rgb(163, 200, 233);
 }
 
+footer {
+    background-color: rgba(238, 162, 228, 0.747);
+    color: black;
+    padding: 10px 0;
+}
+
 .outline {
     border: 1px black solid;
 }
