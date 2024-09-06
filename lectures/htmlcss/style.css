@@ -9,7 +9,7 @@ header {
     background-color: rgba(238, 162, 228, 0.747);
     color: rgb(54, 69, 71);
     padding: 10p 0;
-    border: 10px rgb(226, 120, 203) dashed;
+    /*border: 10px rgb(226, 120, 203) dashed;*/
 }
 
 main {
