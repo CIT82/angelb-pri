@@ -25,7 +25,7 @@
     
 2. **Navbar & Hero Section (`navbar`, `carousel`)**:
     - The navbar is responsive and uses Bootstrap classes. It contains links to the homepage, about page, services, blog, and other pages.
-    - Inside the hero section, a carousel is created using Bootstrap’s carousel component, with indicators and controls for switching between slides.
+    - Inside the hero section, a carousel is created using Bootstrap’s carousel component, with controls for switching between slides.
     - The carousel slides contain images and text, which include animated text and buttons using the `fadeInLeft` and `fadeInRight` animations.
     
 3. **Feature Section (`container-fluid.feature`)**:
@@ -35,35 +35,35 @@
 4. **About Section (`container-fluid.about`)**:
     - The about section includes an image on the left and text on the right.
     - The image is styled with a border and hover effects, while the text provides an overview of the company.
-    - Within this section, there are two highlighted cards (Satisfied Customer and Standard Product) with icons and short descriptions. These items are wrapped inside flex containers for better alignment.
+    - Within this section, there are two highlighted cards. These items are wrapped inside flex containers.
 
 5. **Fact Counter Section (`container-fluid.counter`)**:
-    - This section contains counters that dynamically count up to display statistics like "Happy Clients," "Transport," "Employees," and "Years of Experience."
+    - This section contains counters that count up to display statistics like "Happy Clients," "Transport," "Employees," and "Years of Experience."
     - Each counter item includes an icon, a title, and the counting number. The counter numbers are animated using JavaScript.
 
 6. **Service Section (`container-fluid.service`)**:
-    - Displays various service items like Residential Waters, Commercial Waters, etc. Each service has an associated icon and a short description.
-    - The layout uses flexbox to position the icon and text for each service. Hover effects and animations are applied as well.
+    - Displays various service items like Residential Waters, Commercial Waters, etc. 
+    - The layout uses flexbox to position the icon and text for each service. Hover effects and animations are applied.
 
 7. **Products Section (`container-fluid.product`)**:
     - Showcases products (e.g., different types of water bottles) with images, names, descriptions, and prices. The items are presented in card-style blocks with rounded corners.
-    - The products are wrapped inside a grid layout to ensure responsiveness, and each product has a "Read More" button for more information.
+    - The products are wrapped inside a grid layout, and each product has a "Read More" button for more information.
 
 8. **Team Section (`container-fluid.team`)**:
     - Displays the team members with images, names, roles, and social media links.
     - The team cards include hover effects where additional options (social media links) appear when the card is hovered over.
 
 9. **Testimonial Section (`container-fluid.testimonial`)**:
-    - This section features client reviews in a carousel format, displaying client images, names, and their reviews.
+    - This section features reviews in a carousel format, displaying images, names, and reviews.
     - The Owl Carousel library is used to rotate through the testimonials.
 
 10. **Footer & Copyright Section**:
-    - The footer contains links to various informational pages (e.g., Why Choose Us, Terms & Conditions) and a newsletter subscription form.
+    - The footer contains links to informational pages (e.g., Why Choose Us, Terms & Conditions) and a newsletter subscription form.
     - Social media icons are also displayed in the footer.
-    - The copyright section includes links and attributions to the site designer and distributor.
+    - The copyright section includes links and attributions to the site designer.
     
 11. **JavaScript Libraries**:
-    - jQuery, Bootstrap, and several other JavaScript libraries are linked at the bottom of the file to add dynamic functionality (e.g., carousel, animations).
+    - jQuery, Bootstrap, and several other JavaScript libraries are linked at the bottom of the file (e.g., carousel, animations).
 
 ---
 
