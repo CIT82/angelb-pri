@@ -40,4 +40,4 @@ You use software over the internet, usually through a web browser, without needi
 I chose to do more research on Gooogle Cloud (GCP), since I use google all the time and was interested. GCP provides a wide range of services, including compute, storage, machine learning, AI, and big data analytics! Some strengths it has is its high avaliability, advanced AI/ML tools, and its excellent documentation and user support. These strengths allow GCP to thrive in use cases like machine learning projects, large-scale web applications, and businesses with operations... However, there are some weaknesses. The smaller service catalog makes it so it limits the choices for users that are seeking more specialized cloud tools. Compared to its competitors like AWS, the lack of services makes it less ideal. GCP's pricing can also be difficult to understand and might lead to unexpected costs and make budgeting harder for businesses. 
 
 
-- link: "https://www.pluralsight.com/resources/blog/cloud/what-is-google-cloud-platform-gcp"
+- link ref: *https://www.pluralsight.com/resources/blog/cloud/what-is-google-cloud-platform-gcp*
