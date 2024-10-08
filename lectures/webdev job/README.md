@@ -1,4 +1,6 @@
-Myth 1: 
+How To Get Your First Software Development Job
+
+Myth:
 Need job experience to get job
 
 How do I build something to get hired?
@@ -15,3 +17,13 @@ Overall, the big three is:
 Beautiful portfolio
 Stack they use
 Solves problem they are familiar with
+
+
+Resume Mistakes To Avoid For A Junior Dev:
+
+1. Don't add Junior Dev label on yourself, since it limits your income!
+
+2. Resume should have porfolio on th etop of page! Judge skills, not experience! 
+
+3. Need Resume, Need Portfolio, Need Recruiter! 
+
