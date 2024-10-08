@@ -1,29 +1,50 @@
-How To Get Your First Software Development Job
+# How To Get Your First Software Development Job
 
-Myth:
-Need job experience to get job
+### Myth:
+You need job experience to get a job.  
+**Fact:** You don't need prior job experience to break into software development. What you need is a solid strategy to showcase your skills.
 
-How do I build something to get hired?
-Create Portfolio
-Build projects 
+### How Do I Build Something to Get Hired?
 
-Three Characteristics:
-Need a GREAT LOOKING portfolio
-Make sure the the outside looks good, but the inside needs to look good too! 
+1. **Create a Portfolio:**  
+   A well-organized portfolio is crucial to demonstrate your capabilities.
+   
+2. **Build Projects:**  
+   Showcase your coding skills by building various projects that solve real-world problems. The key is to show potential employers what you can do.
 
-Build it in the stack the hirer is using....
+### Three Key Characteristics for a Successful Portfolio:
 
-Overall, the big three is:
-Beautiful portfolio
-Stack they use
-Solves problem they are familiar with
+1. **A GREAT LOOKING Portfolio:**  
+   The design matters! Your portfolio should look visually appealing and professional.
 
+2. **Great Inside, Great Outside:**  
+   While the outside appearance should be polished, the code quality on the inside need to be just as impressive.
 
-Resume Mistakes To Avoid For A Junior Dev:
+3. **Build It in the Stack the Hirer Uses:**  
+   Ensure that your projects are created in the technology stack used by the companies you are applying to. This shows you're ready to hit the ground running.
 
-1. Don't add Junior Dev label on yourself, since it limits your income!
+### The Big Three:
 
-2. Resume should have porfolio on th etop of page! Judge skills, not experience! 
+1. **Beautiful Portfolio**  
+   Make it stand out!
 
-3. Need Resume, Need Portfolio, Need Recruiter! 
+2. **Relevant Stack**  
+   Align your projects with the tech stack used by the company you’re applying to.
 
+3. **Problem-Solving**  
+   Build solutions that address problems the company is familiar with.
+
+---
+
+## Resume Mistakes to Avoid for a Junior Developer:
+
+1. **Don’t Label Yourself as a 'Junior Developer':**  
+   Avoid titles that limit your income!
+
+2. **Portfolio at the Top of Your Resume:**  
+   Highlight your portfolio first! Employers want to judge your skills and what you’ve built, not just your experience.
+
+3. **The Essentials:**  
+   - You **need** a resume.
+   - You **need** a portfolio.
+   - You **need** a recruiter to help navigate opportunities.
